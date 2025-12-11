@@ -6,7 +6,7 @@ Para cumprir o objetivo de integrar dados biológicos de naturezas distintas, s�
 
 ### A. Dados Genómicos e Fenotípicos (Deep Mutational Scanning)
 - Fonte: Starr et al. (2022) - https://github.com/jbloomlab/SARS-CoV-2-RBD_DMS_Omicron/tree/main/results/binding_Kd
-- Descrição: Dataset gerado por Deep Mutational Scanning da variante ancestral (Wuhan-Hu-1). Este estudo mediu experimentalmente o impacto funcional de quase todas as mutações possíveis de aminoácido único no RBD.
+- Descrição: Dataset gerado por Deep Mutational Scanning da variante ancestral (Wuhan-Hu-1). Este estudo mediu experimentalmente o impacto funcional de quase todas as mutações possíveis no RBD.
 - Utilidade: A medida real de quão bem cada variante se liga ao recetor ACE2.
 
 ### B. Dados Estruturais (Cristalografia de Raios-X)
@@ -32,4 +32,5 @@ O modelo recebe dois tipos de inputs para cada variante viral:
 - Alvo: Afinidade de Ligação ($\Delta \log_{10} K_a$).
 - Interpretação:
     - Valores mais altos indicam uma ligação mais forte ao recetor humano (maior infeciosidade potencial).
+
     - Valores mais baixos indicam perda de função.

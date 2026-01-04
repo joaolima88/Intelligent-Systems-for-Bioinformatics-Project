@@ -1871,3 +1871,475 @@ pdb_id,status,n_nodes,n_edges,message
 8J1T,ok,411,4018,
 8PQ2,ok,390,3580,
 8SMT,missing,,,PDB not found in ZIP
+4RGN,ok,426,4250,
+6NB6,ok,233,2336,
+6W41,ok,443,4354,
+6WPS,ok,225,2268,
+6XC2,ok,430,4368,
+6XC4,ok,433,4314,
+6XCA,ok,422,4246,
+6XDG,no_ca,0,0,No CA atoms found
+6XE1,ok,429,4242,
+6XEY,ok,230,2360,
+6XKP,ok,431,4314,
+6XKQ,ok,434,4414,
+6ZCZ,ok,434,4260,
+7AKD,ok,226,2178,
+7B0B,ok,433,4258,
+7B3O,ok,430,4228,
+7BEH,ok,431,4352,
+7BEI,ok,431,4260,
+7BEJ,ok,428,4280,
+7BEL,ok,241,2440,
+7BEM,ok,226,2280,
+7BEN,ok,433,4342,
+7BEO,ok,433,4332,
+7BEP,ok,444,4426,
+7BNV,ok,439,4348,
+7BWJ,ok,442,4478,
+7BYR,ok,198,1864,
+7BZ5,ok,432,4266,
+7C01,ok,433,4322,
+7C2L,ok,448,4374,
+7CAI,no_ca,0,0,No CA atoms found
+7CDI,ok,423,4216,
+7CDJ,ok,424,4282,
+7CH4,ok,431,4278,
+7CH5,ok,424,4226,
+7CHB,ok,425,4200,
+7CHC,ok,424,4232,
+7CHO,ok,429,4338,
+7CHP,ok,436,4300,
+7CHS,ok,423,4194,
+7CJF,no_ca,0,0,No CA atoms found
+7CM4,ok,439,4406,
+7CWM,ok,227,2268,
+7CWS,ok,227,2166,
+7CYP,ok,110,1128,
+7CYV,missing,,,PDB not found in ZIP
+7CZP,ok,435,4226,
+7CZQ,ok,223,2108,
+7CZR,ok,217,2076,
+7CZT,ok,440,4230,
+7CZU,ok,229,2172,
+7CZW,ok,444,4338,
+7CZX,ok,230,2170,
+7CZY,ok,224,2120,
+7D0B,ok,238,2462,
+7D0C,ok,434,4230,
+7D6I,no_ca,0,0,No CA atoms found
+7DD2,ok,213,1966,
+7DEO,no_ca,0,0,No CA atoms found
+7DET,no_ca,0,0,No CA atoms found
+7DEU,no_ca,0,0,No CA atoms found
+7DK2,ok,405,3824,
+7DK5,no_ca,0,0,No CA atoms found
+7DZX,ok,440,4378,
+7DZY,ok,438,4458,
+7E23,no_ca,0,0,No CA atoms found
+7E39,no_ca,0,0,No CA atoms found
+7E3B,no_ca,0,0,No CA atoms found
+7E3C,no_ca,0,0,No CA atoms found
+7E3K,missing,,,PDB not found in ZIP
+7E3L,missing,,,PDB not found in ZIP
+7E3O,missing,,,PDB not found in ZIP
+7E5O,ok,433,4254,
+7E5Y,ok,415,4130,
+7E7X,ok,422,4166,
+7E7Y,no_ca,0,0,No CA atoms found
+7E86,no_ca,0,0,No CA atoms found
+7E88,ok,401,3870,
+7E8C,ok,229,2356,
+7E9P,ok,444,4128,
+7EAM,ok,429,4248,
+7EAN,ok,432,4384,
+7EH5,ok,230,2120,
+7EJ4,ok,228,2192,
+7EJ5,ok,230,2134,
+7EK0,ok,428,4266,
+7ENF,no_ca,0,0,No CA atoms found
+7EPX,missing,,,PDB not found in ZIP
+7EY0,ok,216,2164,
+7EY4,ok,237,2272,
+7EY5,ok,237,2292,
+7EYA,ok,228,2162,
+7EZV,ok,222,2204,
+7F0X,no_ca,0,0,No CA atoms found
+7F12,no_ca,0,0,No CA atoms found
+7F15,no_ca,0,0,No CA atoms found
+7F3Q,ok,424,4022,
+7F7E,ok,205,1916,
+7F7H,no_ca,0,0,No CA atoms found
+7FAE,ok,434,4088,
+7FCP,ok,447,4436,
+7FJO,ok,220,2118,
+7JMO,ok,429,4264,
+7JMP,ok,429,4302,
+7JMW,ok,443,4358,
+7JV2,ok,229,2300,
+7JVA,ok,227,2280,
+7JW0,ok,431,4314,
+7JX3,ok,437,4372,
+7JXE,ok,447,4496,
+7K43,ok,227,2300,
+7K4N,ok,220,2200,
+7K8M,no_ca,0,0,No CA atoms found
+7K8P,ok,426,4224,
+7K8R,ok,434,4302,
+7K8S,ok,232,2320,
+7K8U,ok,213,2174,
+7K8W,ok,237,2378,
+7K8X,no_ca,0,0,No CA atoms found
+7K90,ok,237,2404,
+7K9H,ok,228,2252,
+7K9J,ok,227,2192,
+7K9Z,ok,423,4082,
+7KFV,ok,439,4442,
+7KFW,ok,436,4424,
+7KFX,ok,439,4384,
+7KFY,ok,437,4380,
+7KLG,ok,437,4332,
+7KMG,no_ca,0,0,No CA atoms found
+7KMH,no_ca,0,0,No CA atoms found
+7KMI,no_ca,0,0,No CA atoms found
+7KN3,missing,,,PDB not found in ZIP
+7KN4,missing,,,PDB not found in ZIP
+7KQB,ok,434,4608,
+7KS9,ok,219,2086,
+7KXJ,ok,437,4472,
+7KZA,ok,428,4290,
+7KZB,ok,428,4226,
+7KZC,ok,420,4116,
+7L02,ok,429,4202,
+7L2C,ok,434,4320,
+7L2D,ok,236,2340,
+7L2E,ok,231,2306,
+7L2F,ok,235,2268,
+7L56,ok,239,2438,
+7L58,ok,235,2344,
+7L5B,ok,429,4178,
+7L7D,ok,434,4330,
+7L7E,ok,432,4232,
+7LAA,ok,434,4292,
+7LAB,ok,426,4264,
+7LCN,ok,439,4586,
+7LD1,ok,452,5610,
+7LJR,no_ca,0,0,No CA atoms found
+7LKA,ok,429,4300,
+7LM8,ok,439,4380,
+7LOP,ok,439,4314,
+7LQ7,missing,,,PDB not found in ZIP
+7LQV,ok,230,2194,
+7LQW,ok,233,2302,
+7LRS,no_ca,0,0,No CA atoms found
+7LS9,ok,237,2340,
+7LSS,ok,227,2324,
+7LXW,ok,221,2226,
+7LXX,ok,233,2336,
+7LY0,ok,223,2266,
+7M3I,ok,415,3994,
+7M42,no_ca,0,0,No CA atoms found
+7M51,ok,437,4426,
+7M6D,ok,429,4234,
+7M6E,ok,231,2328,
+7M6F,ok,226,2388,
+7M6G,ok,223,2138,
+7M6H,no_ca,0,0,No CA atoms found
+7M6I,ok,223,2138,
+7M7B,ok,426,4242,
+7M7W,ok,435,4312,
+7M8J,ok,229,2180,
+7MF1,ok,438,4400,
+7MJJ,no_ca,0,0,No CA atoms found
+7MKL,ok,218,1940,
+7MLZ,ok,428,3980,
+7MMO,no_ca,0,0,No CA atoms found
+7MSQ,ok,435,4304,
+7MW2,ok,427,4242,
+7MW5,ok,424,4170,
+7MXP,ok,226,2170,
+7MZF,ok,428,4260,
+7MZG,ok,433,4298,
+7MZH,ok,429,4258,
+7MZI,ok,432,4362,
+7MZJ,ok,435,4380,
+7MZK,ok,442,4412,
+7MZL,ok,428,4204,
+7MZM,ok,445,4390,
+7MZN,ok,440,4338,
+7N01,ok,241,2298,
+7N3F,ok,437,4380,
+7N3H,ok,427,4296,
+7N4I,ok,433,4324,
+7N4J,ok,450,4524,
+7N4L,ok,434,4340,
+7N5H,ok,235,2352,
+7N62,ok,435,4276,
+7N8H,ok,226,2176,
+7NAB,ok,439,4346,
+7ND6,ok,434,4300,
+7NDB,ok,433,4358,
+7NDC,ok,221,2226,
+7NP1,ok,434,4338,
+7NTC,ok,437,4140,
+7NX6,ok,429,4250,
+7OR9,ok,434,4328,
+7P40,missing,,,PDB not found in ZIP
+7PQZ,ok,430,4246,
+7PR0,ok,449,4448,
+7PRY,ok,433,4274,
+7PRZ,ok,442,4424,
+7PS0,ok,433,4276,
+7PS1,no_ca,0,0,No CA atoms found
+7PS2,ok,433,4242,
+7PS3,ok,440,4456,
+7PS4,ok,436,4370,
+7PS5,ok,439,4366,
+7PS6,ok,443,4400,
+7PS7,ok,431,4330,
+7Q0G,ok,432,4318,
+7Q6E,ok,435,4364,
+7Q9F,ok,428,4316,
+7Q9I,ok,234,2374,
+7Q9J,ok,230,2354,
+7QEZ,missing,,,PDB not found in ZIP
+7QNW,ok,427,4206,
+7QNY,ok,428,4240,
+7QTI,ok,214,1976,
+7R40,ok,227,2040,
+7R7N,ok,202,1986,
+7RBU,ok,232,2170,
+7RKU,missing,,,PDB not found in ZIP
+7RKV,missing,,,PDB not found in ZIP
+7RNJ,ok,408,3916,
+7RQ6,ok,231,2290,
+7RR0,no_ca,0,0,No CA atoms found
+7RU3,ok,223,2236,
+7RU5,ok,231,2372,
+7S0B,no_ca,0,0,No CA atoms found
+7S0C,ok,439,4206,
+7S0D,ok,437,4226,
+7S0E,ok,437,4254,
+7S3M,missing,,,PDB not found in ZIP
+7S5P,ok,422,4236,
+7S5Q,ok,437,4340,
+7S5R,ok,437,4350,
+7S6J,ok,225,2290,
+7SC1,ok,224,2234,
+7SD5,ok,440,4354,
+7SI2,ok,430,4204,
+7SIX,ok,236,2136,
+7SJS,ok,419,4160,
+7SKZ,missing,,,PDB not found in ZIP
+7SL5,missing,,,PDB not found in ZIP
+7SN1,ok,430,4326,
+7SOE,ok,230,2276,
+7SWN,ok,228,2226,
+7SWO,ok,432,4278,
+7SWP,ok,241,2454,
+7SWW,ok,229,2168,
+7T01,ok,227,2262,
+7T3M,ok,232,2166,
+7T72,ok,427,4172,
+7T7B,ok,434,4342,
+7TAS,ok,228,2294,
+7TB8,missing,,,PDB not found in ZIP
+7TC9,missing,,,PDB not found in ZIP
+7TCQ,ok,427,4232,
+7TE1,missing,,,PDB not found in ZIP
+7THE,no_ca,0,0,No CA atoms found
+7TOW,ok,450,4472,
+7TP3,ok,445,4412,
+7TP4,ok,430,4286,
+7U09,ok,435,4306,
+7U0A,ok,438,4374,
+7U0E,ok,435,4316,
+7U0L,missing,,,PDB not found in ZIP
+7U0Q,no_ca,0,0,No CA atoms found
+7U0X,ok,450,4234,
+7U2D,ok,434,4322,
+7U2E,ok,434,4340,
+7U9O,ok,386,3590,
+7U9P,ok,320,2968,
+7UAP,ok,238,2320,
+7UAR,ok,229,2172,
+7UKL,ok,240,2414,
+7UKM,ok,245,2438,
+7UL0,ok,438,4430,
+7UL1,ok,432,4346,
+7UPW,ok,437,4226,
+7URQ,ok,429,4304,
+7UZ4,ok,226,2226,
+7UZ5,ok,226,2280,
+7UZ6,ok,225,2210,
+7UZ7,ok,228,2274,
+7UZ9,ok,232,2344,
+7UZA,ok,232,2280,
+7UZB,ok,434,4268,
+7V26,no_ca,0,0,No CA atoms found
+7V2A,ok,111,1104,
+7VMU,no_ca,0,0,No CA atoms found
+7VYR,ok,433,4302,
+7W9E,no_ca,0,0,No CA atoms found
+7WB5,ok,225,2280,
+7WBZ,ok,431,4288,
+7WC0,ok,419,4124,
+7WCH,ok,228,2306,
+7WCP,ok,228,2212,
+7WCR,no_ca,0,0,No CA atoms found
+7WE9,ok,231,2064,
+7WEA,ok,230,2220,
+7WED,ok,230,2202,
+7WH8,no_ca,0,0,No CA atoms found
+7WHZ,ok,233,2366,
+7WJY,missing,,,PDB not found in ZIP
+7WK8,no_ca,0,0,No CA atoms found
+7WLC,ok,229,2252,
+7WN2,missing,,,PDB not found in ZIP
+7WNB,missing,,,PDB not found in ZIP
+7WO4,missing,,,PDB not found in ZIP
+7WOA,missing,,,PDB not found in ZIP
+7WOG,missing,,,PDB not found in ZIP
+7WON,missing,,,PDB not found in ZIP
+7WOP,no_ca,0,0,No CA atoms found
+7WPD,no_ca,0,0,No CA atoms found
+7WPH,missing,,,PDB not found in ZIP
+7WPV,missing,,,PDB not found in ZIP
+7WQV,ok,478,4858,
+7WR8,no_ca,0,0,No CA atoms found
+7WRJ,no_ca,0,0,No CA atoms found
+7WRL,no_ca,0,0,No CA atoms found
+7WRY,ok,225,2268,
+7WRZ,ok,228,2292,
+7WS4,ok,108,998,
+7WSC,ok,235,2352,
+7WT7,missing,,,PDB not found in ZIP
+7WTF,ok,224,2046,
+7WTH,ok,224,2074,
+7WTJ,ok,227,2186,
+7WUE,no_ca,0,0,No CA atoms found
+7WVL,ok,428,4266,
+7WWI,ok,108,1022,
+7WWL,ok,231,2254,
+7WWM,ok,225,2120,
+7X08,ok,424,4108,
+7X7O,ok,229,2306,
+7X7T,ok,232,2304,
+7X8W,ok,237,2358,
+7X8Y,ok,232,2184,
+7X8Z,ok,232,2242,
+7X90,no_ca,0,0,No CA atoms found
+7X91,ok,227,2194,
+7X92,ok,232,2272,
+7X93,no_ca,0,0,No CA atoms found
+7X94,ok,236,2326,
+7X95,ok,230,2270,
+7X96,ok,229,2226,
+7X9E,no_ca,0,0,No CA atoms found
+7XH8,no_ca,0,0,No CA atoms found
+7XIC,ok,237,2340,
+7XMX,ok,227,2202,
+7XMZ,ok,233,2356,
+7XSA,ok,212,2056,
+7XSB,ok,415,4108,
+7XSC,ok,214,2072,
+7Y0C,no_ca,0,0,No CA atoms found
+7Y0V,ok,433,4308,
+7Y0W,ok,228,2272,
+7Y6L,missing,,,PDB not found in ZIP
+7Y6N,missing,,,PDB not found in ZIP
+7Y71,no_ca,0,0,No CA atoms found
+7Y7J,no_ca,0,0,No CA atoms found
+7YC5,ok,198,1888,
+7YCK,no_ca,0,0,No CA atoms found
+7YCL,ok,431,4290,
+7YCN,ok,433,4146,
+7YDI,ok,440,4208,
+7YKJ,no_ca,0,0,No CA atoms found
+7YR1,ok,231,2254,
+7YTN,missing,,,PDB not found in ZIP
+7YVE,missing,,,PDB not found in ZIP
+7YVG,missing,,,PDB not found in ZIP
+7YVI,missing,,,PDB not found in ZIP
+7YVK,missing,,,PDB not found in ZIP
+7YVM,missing,,,PDB not found in ZIP
+7Z0X,ok,439,4422,
+7Z0Y,ok,429,4284,
+7ZBU,ok,414,3894,
+7ZCE,no_ca,0,0,No CA atoms found
+7ZF3,ok,431,4262,
+7ZF4,ok,426,4190,
+7ZF5,ok,442,4394,
+7ZFA,ok,435,4390,
+7ZFB,ok,423,4198,
+7ZFD,ok,437,4412,
+7ZFE,ok,433,4252,
+7ZR7,ok,233,2454,
+7ZR8,ok,226,2308,
+7ZR9,ok,239,2406,
+8A95,no_ca,0,0,No CA atoms found
+8BBN,ok,436,4354,
+8BBO,ok,433,4354,
+8BCZ,ok,225,2264,
+8BE1,no_ca,0,0,No CA atoms found
+8BSE,ok,429,4288,
+8C3V,ok,435,4366,
+8CIM,ok,233,2374,
+8CSJ,ok,232,2226,
+8CWI,ok,432,4286,
+8CWK,ok,431,4362,
+8D0Z,ok,219,2236,
+8D36,missing,,,PDB not found in ZIP
+8D6Z,missing,,,PDB not found in ZIP
+8D8Q,ok,244,2374,
+8DAD,ok,230,2316,
+8DAO,missing,,,PDB not found in ZIP
+8DGU,ok,431,4336,
+8DGV,ok,420,4088,
+8DGW,ok,424,4274,
+8DGX,ok,429,4316,
+8DNN,no_ca,0,0,No CA atoms found
+8DPZ,no_ca,0,0,No CA atoms found
+8DT3,ok,232,2286,
+8DTR,no_ca,0,0,No CA atoms found
+8DTT,no_ca,0,0,No CA atoms found
+8DTX,ok,437,4310,
+8DW9,ok,430,4244,
+8DWA,ok,425,4182,
+8DXS,ok,230,2146,
+8DXT,ok,426,4260,
+8DXU,ok,431,4264,
+8DZH,ok,227,2326,
+8ECQ,ok,484,4910,
+8ECV,ok,477,4802,
+8EDF,ok,475,4708,
+8EL2,ok,432,4260,
+8EOO,missing,,,PDB not found in ZIP
+8ERQ,ok,226,2236,
+8F0G,no_ca,0,0,No CA atoms found
+8F0H,ok,218,2212,
+8F0I,ok,223,2102,
+8F5I,ok,434,4310,
+8FAX,ok,12,76,
+8GB5,ok,442,4166,
+8GB6,ok,439,4420,
+8GB7,ok,426,4248,
+8GF2,ok,439,4350,
+8GJM,no_ca,0,0,No CA atoms found
+8GOU,missing,,,PDB not found in ZIP
+8GZZ,no_ca,0,0,No CA atoms found
+8H07,ok,107,1046,
+8HC2,ok,429,4006,
+8HC8,ok,442,4140,
+8HES,ok,429,4344,
+8HGL,ok,438,4208,
+8HN6,no_ca,0,0,No CA atoms found
+8HN7,no_ca,0,0,No CA atoms found
+8I3S,ok,224,2232,
+8I3U,ok,241,2424,
+8IV4,ok,225,2244,
+8IV5,ok,225,2216,
+8IX3,ok,232,2286,
+8J1T,ok,115,1098,
+8PQ2,ok,200,1832,
+8SMT,missing,,,PDB not found in ZIP
